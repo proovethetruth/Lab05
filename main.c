@@ -1,5 +1,5 @@
 
-// Ввести строку и слово. Вывести только те слова, окончание которых совпадает с введенным словом.
+// Input string, and a word.Output only those words, which endings are similar to input word
 
 #include <stdio.h>
 
